@@ -1,5 +1,5 @@
 Template_CRUD_Java4
-#Hướng dẫn config hibernate
+#Hướng dẫn config hibernate (khác nhau chỗ /* Cài đặt môi trường cấu hình hibernate*/)
 
 ĐỐI VỚI MSSQL (SQL Server):
 
